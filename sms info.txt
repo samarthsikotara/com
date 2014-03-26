@@ -1,0 +1,7 @@
+https://rest.nexmo.com/sms/json?api_key=0c6b9f26&api_secret=c58bad78&from=+918905979608&to=+919537243647&text=Hi..how%20are%20you..?
+
+http://www.magicwebindia.com/sms-gupshup.php
+
+http://www.mvaayoo.com/UI/Api.aspx
+
+https://dashboard.nexmo.com/private/numbers

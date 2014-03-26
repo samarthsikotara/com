@@ -1,0 +1,199 @@
+<iframe  src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2FShaukk&amp;width=190&amp;height=62&amp;colorscheme=light&amp;show_faces=false&amp;header=false&amp;stream=false&amp;show_border=false" scrolling="no" frameborder="0" style="margin-top: -17px;border:none; overflow:hidden; width:190px; height:62px;margin-top:50px;margin-left:4px;" allowTransparency="true"></iframe>
+
+<div class="top-box" style="height:480px;">
+    <div class="top-user-box">
+        <span><img src="/images/tu_bawraa_hain_to_chal_21.png" style="width: 189px;"/></span>
+        <span style="color: #777;margin-left: 4%;font-size: 14px;float:left;">
+            <table class="top-table" style="text-align:center;width:211px;margin-left: -4px;margin-top: -32px;">
+
+                <tr>
+                    <td style="font-size:48px; float: right;font-weight:300;margin-right: -3px;
+margin-top: 6px;"><img src="/images/bolt1.png" style="height: 28px;" /> </td>
+                    <td style="text-align: left;padding-left: 10px;">
+
+                        Let your passion redefine you
+                    </td>
+                </tr>
+                <br />
+                <tr><td colspan = "2">
+
+                    </td>
+                </tr>
+
+                <tr>
+                    <td style="font-size:48px; float: right;font-weight:300;margin-right: -6px;
+margin-top: 4px;"><img src="/images/heart_fill_31.png" style="width: 37px;height: 32px;" /></td>
+                    <td style="text-align: left;padding-left: 10px;">
+
+                        Let your Heart guide you for once
+                    </td>
+                </tr><br />
+                <tr><td colspan = "2">
+                    </td>
+                </tr>
+                <tr>
+                    <td style="font-size:48px; float: right;font-weight:300;margin-top: 6px;margin-left: 5px;"><img src="/images/check_1.png" style="height: 23px;
+margin-left: 6px;
+margin-right: 0px;" /></td>
+                    <td style="text-align: left;padding-left: 10px;">Let your choices entice the world</td>
+                </tr>
+            </table>
+
+
+            <table class="top-table" style="margin-left: 43px;">
+                <tr>
+                    <td>Be a Shaukkeen</td>
+
+
+                </tr>
+                <br />
+                <tr>
+                    <td>Be a Bawraa</td>
+
+                </tr>
+                <!--
+                <tr>
+                    <td style="font-size:48px; float: right;font-weight:300;"><img src="/images/bawaras_new1.png" style="width:66px;margin-top: 15px;" /></td>
+                    <td style="text-align: left;"><img src="/images/shaukk_b.png" style="width:66px; margin-left: 32px;margin-top: 15px;" /></td>
+                </tr>
+                -->
+            </table>
+            <br />
+            <span style="margin-left: 7px;font-style: italic;">A contest for all Indians by</span><br />
+            <table>
+                <tr>
+                    <img src="/images/logos.png" style="width: 191px;"/>
+
+                </tr>
+            </table>
+            <span style="font-style: italic;
+
+font-family: permanent marker;
+margin-left: 14px;
+font-size: 17px;">in association with<br /><span style="margin-left: 5px;"><img src="/images/favicon.png" /></span><span style="margin-left: 4px;">Mood Indigo'13</span></span>
+
+
+         </span>
+         <a class="universal-red-button applynow-bttn" id="applynow-button" href="{$my_base_url}/bawraas/">Apply Now</a>
+    </div>
+
+</div>
+<div class="top-box">
+    <div class="top-user-box">
+        <span>Shaukeen Of The Month</span>
+        <a href="http://shaukk.com/profile/karan-rawat/"><img src="{$my_pligg_base}/images/top_user.jpg" style="height: 200px;margin-left: 18%;margin-top: 5%;margin-bottom:1%;" /></a>
+        <span style="color:#777;"><br><a style="margin-left: 32%;font-size: 14px;" href="http://shaukk.com/profile/karan-rawat/">Karan Rawat</a> </span>
+        <span style="color: #777;margin-left: 4%;font-size: 14px;float:left;">
+            <table class="top-table" style="text-align:center;width:160px;margin-left: 19px;">
+
+                <tr>
+                    <td style="font-size:48px; float: right;font-weight:300;">03</td>
+                    <td style="text-align: left;">
+
+                        Board Games Plans Created
+                    </td>
+                </tr>
+                <tr><td colspan = "2">
+                       and
+                    </td>
+                </tr>
+                <tr>
+                    <td style="font-size:48px; float: right;font-weight:300;">01</td>
+                    <td style="text-align: left;">
+
+                        Dance Plans Joined
+                    </td>
+                </tr>
+                <tr><td colspan = "2">
+                        with
+                    </td>
+                </tr>
+                <tr>
+                    <td style="font-size:48px; float: right;font-weight:300;">21</td>
+                    <td style="text-align: left;">Shaukkeens</td>
+                </tr>
+            </table>
+
+
+         </span>
+    </div>
+
+        </div>
+
+    <!--media-->
+
+    <div class="top-box2">
+        <div class="top-user-box">
+        <span>Shaukk gets featured in</span>
+            <a href="http://www.vyapaari.in/realize-your-shaukk/"><img src="/images/desk.png" style="margin-left: 9%;margin-top: 10%;margin-bottom:5%;width:77%;" /></a>
+            <span style="color:#777;"><br><a style="margin-left: 32%;font-size: 14px;" href="http://www.vyapaari.in/realize-your-shaukk/"></a> </span>
+        <span style="color: #777;margin-left: 10%;font-size: 13px;float:left;margin-right: 10%;">
+        <span style="font-size: 17px;">Realize your Shaukk</span> <br>
+        <br>
+            "Living a life guided by what is in the heart delivers happiness, connectedness, contentment..." <span style="color:#006699;"><a href="http://www.vyapaari.in/realize-your-shaukk/">Read More</a></span>
+        <br>
+        <br>
+
+            <a href="http://thetechpanda.com/shaukk-find-interesting-people-and-things-near-you/#.Uhr3VdLrxAc"><img src="http://dev.shaukk.com/images/TheTechPanda300x100.png" style="margin-left: -1%;margin-top: 10%;margin-bottom:5%;width:84%;" /></a>
+            <span style="color:#777;"><br><a style="margin-left: 32%;font-size: 14px;" href="http://www.vyapaari.in/realize-your-shaukk/"></a> </span>
+        <span style="color: #777;font-size: 13px;float:left;">
+        <span style="font-size: 17px;">Find Interesting People and Things Near You</span> <br>
+        <br>
+            "A hyper local network like Shaukk can help you discover some appealing and..." <span style="color:#006699;"><a href="http://thetechpanda.com/shaukk-find-interesting-people-and-things-near-you/#.Uhr3VdLrxAc">Read More</a></span>
+<!--
+As in other Media
+-->
+            <br>
+            <br>
+             <span style="color:#006699;"><a href="http://dev.shaukk.com/media.php">As in other Media</a></span>
+
+        </span>
+
+
+
+
+
+        </div>
+
+    </div>
+
+
+    <!--testimonials-->
+
+    <div class="top-box1">
+        <div class="top-user-box">
+        <span >Reviews from Shaukkeens</span>
+            <a href="http://shaukk.com/profile/arpit-bhopalkar/"><img src="/images/download.jpg" style="margin-left: 9%;margin-top: 10%;margin-bottom:5%;width:77%;" /></a>
+            <span style="color:#777;"><br><a style="margin-left: 32%;font-size: 14px;" href="http://www.vyapaari.in/realize-your-shaukk/"></a> </span>
+        <span style="color: #777;margin-left: 10%;font-size: 13px;float:left;margin-right: 10%;">
+        <span style="font-size:17px;"> Arpit Bhopalkar</span> <br>
+         <span style="font-size:12px;"> National Level T.T player</span><br>
+        <br>
+        "I saw it and loved it. It’s simple. I can connect with people who play my sport, who love my sport. What’s better..." <span style="color:#006699;"><a href="http://blog.shaukk.com/international-table-tennis-players-on-shaukk/">Read More</a></span>
+        <br>
+
+        <br>
+
+            <a href="http://shaukk.com/profile/noel-sequeira/"><img src="/images/noel.jpg" style="margin-left: 9%;margin-top: 10%;margin-bottom:5%;width:77%;" /></a>
+            <span style="color:#777;"><br><a style="margin-left: 32%;font-size: 14px;" href="http://www.vyapaari.in/realize-your-shaukk/"></a> </span>
+        <span style="color: #777;font-size: 13px;float:left;">
+        <span style="font-size:17px;"> Noel Sequeira</span> <br>
+         <span style="font-size:12px;"> MIT' 2015 (ex-Mumbai)</span><br>
+        <br>
+        "I've been an active member of Shaukk for well over 6 months now. I've found that it's a great discovery platform for hyperlocal events..." <span style="color:#006699;"><a href="http://dev.shaukk.com/testimonials.php">Read More</a></span>
+        <br>
+<!-- More Testimonials here-->
+        <br>
+
+            <span style="color:#006699;"><a href="http://dev.shaukk.com/testimonials.php">More Testimonials here</a></span>
+        </span>
+
+
+
+
+
+        </div>
+
+    </div>
+
+
